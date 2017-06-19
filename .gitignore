@@ -1,0 +1,11 @@
+build/
+.gradle/
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+run/
+src/main/resources/assets/teckle/textures/blocks/clrref/
+src/main/java/mcmultipart/
+src/main/resources/assets/mcmultiparttest/
